@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--background colors-->
+<body background="w3s.png"> 
+<style>
+body {
+	background-color:#FF0000; 
+}
+</style>
+
+<!--this is the top part of my website-->
+<html>
+<head>
+<!--text coloring-->
+   <body text="#ffffff" link="#ff0000" vlink="#000000" alink="#000000">
