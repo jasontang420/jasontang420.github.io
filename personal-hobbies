@@ -14,3 +14,29 @@ body {
 <head>
 <!--text coloring-->
    <body text="#ffffff" link="#ff0000" vlink="#000000" alink="#000000">
+   <title>Page Title</title>
+</head>
+     <!--OVERALL CONTAINER-->
+     <div id="container" style="width100px">
+
+<!--title-->
+<center>
+<h3>My Personal Hobbies</h3>
+</center>
+
+     <!--Navigation--> 
+     <center>
+          <div id="header" style="background-color: #FDFEFE;">
+               <h1 style:"margin-bottom:0">
+              <font size:"2" color="black">
+          <a href="">Home Page</a>
+          <a href=""> Peronal Hobbies</a>
+          <a href=""> Future Career</a>
+          <a href=""> Favorite Food</a>
+          </font>
+          </h1>
+          </center> 
+   <img src="(insert image here)" alt="Tennis!" style="width:200px;height:200px;">
+
+</body>
+</html>
