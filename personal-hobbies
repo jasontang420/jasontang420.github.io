@@ -6,7 +6,9 @@ body {
     background-color: #000000;
 }
 </style>
-
+body {
+        color: white;
+}
 
 
 <!--CSS-->
@@ -53,18 +55,30 @@ body {
    <div align="left">
    <img src="(insert image here)" alt="Tennis!" style="width:200px;height:200px;">
    </div>
+
    
    <!--video-->
    <div align="right">
    <iframe width="420" height="315"
-src="(insert youtube link here)" alt="Me playing tennis">
+src="https://www.youtube.com/watch?v=oyxhHkOel2I" alt="Playing tennis">
 </iframe>
 </div>
 
 <!--Actual writing-->
+<font 
 <h1>Personal Hobbies</h1>
-<p>(I don't have a video or picture0 I have many different hobbies, including reading, playing video games, and talking to friends But, my most favorite hobby is playing tennis. The reason I put tennis under "hobbies" is because I don't play competitively. I enjoy playing tennis because it not only gives a source of exercise, but it's also extremely fun. </p>
+<p>(I don't have a video or picture) I have many different hobbies, including reading, playing video games, and talking to friends. 
+But, my most favorite hobby is playing tennis. The reason I put tennis under "hobbies" is because I don't play competitively. 
+I enjoy playing tennis because it not only gives a source of exercise, but it's also extremely fun. 
+In tennis, to start off the game you hit the ball overhand into the opposite servers box. From there, you play on. 
+If you are playing singles, the court is restricted to without doubles alley. When playing doubles, the doubles alley is included. 
+The scoring in tennis is intresting, each time you add 15 until you reach 30, from there you add 10. 
+If both teams have 40, it's called a duece. 
+In this situtation, the team who loses the next point will go back down to 30 while the other team stays at 40. In order to win, you have to reach 50. 
+In tennis, you play to whoever wins 6 matches. </p>
 
+
+<a href="https://www.usta.com/en/home.html">Link to UTSA Website</a>
 
 </body>
 </html>
