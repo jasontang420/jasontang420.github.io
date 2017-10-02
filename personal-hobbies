@@ -65,7 +65,7 @@ src="https://www.youtube.com/watch?v=oyxhHkOel2I" alt="Playing tennis">
 </div>
 
 <!--Actual writing-->
-<font 
+<div id="header" style="background-color: #FF0000;">
 <h1>Personal Hobbies</h1>
 <p>(I don't have a video or picture) I have many different hobbies, including reading, playing video games, and talking to friends. 
 But, my most favorite hobby is playing tennis. The reason I put tennis under "hobbies" is because I don't play competitively. 
